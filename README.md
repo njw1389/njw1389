@@ -52,4 +52,5 @@ I'm Nolan and I'm a second-year Computing and Information Sciences BS student at
 
 [![Top Langs](https://github-readme-stat-alextedesco.vercel.app/api/top-langs/?username=alextedesco&layout=compact&theme=vision-friendly-dark)](https://github.com/alextedesco/github-readme-stats)
 
+[![Nolan Wira's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=njw1389&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/njw1389)
 ---
