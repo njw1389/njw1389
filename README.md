@@ -13,6 +13,7 @@ I'm Nolan and I'm a second-year Computing and Information Sciences BS student at
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 ---
 
 ### 🛠 &nbsp;Languages and Software:
@@ -44,5 +45,11 @@ I'm Nolan and I'm a second-year Computing and Information Sciences BS student at
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" **alt="Raspberry Pi" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>&nbsp;
 </p>
+
+---
+
+### 🐍 &nbsp;Most Used Languages:
+
+[![Top Langs](https://github-readme-stat-alextedesco.vercel.app/api/top-langs/?username=alextedesco&layout=compact&theme=vision-friendly-dark)](https://github.com/alextedesco/github-readme-stats)
 
 ---
