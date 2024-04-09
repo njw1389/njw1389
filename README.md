@@ -40,6 +40,6 @@ I'm Nolan and I'm a second-year Computing and Information Sciences BS student at
 
 [![Nolan Wira's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=njw1389&hide=&theme=vision-friendly-dark)](https://github.com/njw1389/)
 
-- [Flutter App](https://github.com/njw1389/Flutter-App)
+- [RIT Parking - Flutter App](https://github.com/njw1389/Flutter-App)
 
 ---
