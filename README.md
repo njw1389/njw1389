@@ -38,6 +38,6 @@ I'm Nolan and I'm a second-year Computing and Information Sciences BS student at
 
 ### 🐍 &nbsp;Most Used Languages:
 
-[![Nolan Wira's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=njw1389&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=vision-friendly-dark)](https://github.com/njw1389/Flutter-App)
+[![Nolan Wira's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=njw1389&hide=&theme=vision-friendly-dark)](https://github.com/njw1389/Flutter-App)
 
 ---
