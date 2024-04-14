@@ -46,6 +46,14 @@ I'm Nolan and I'm a second-year Computing and Information Sciences BS student at
 
 - [Unix Group Project - PHP Website](https://github.com/njw1389/Unix-Project)
 
+- [iHold - Design Class Group Website](https://github.com/njw1389/iHold)
+
+- [Unix Group Project - PHP Website](https://github.com/njw1389/Unix-Project)
+  
+- [Unix Group Project - PHP Website](https://github.com/njw1389/Unix-Project)
+
+- [Unix Group Project - PHP Website](https://github.com/njw1389/Unix-Project)
+
 - [RIT Parking - Flutter App](https://github.com/njw1389/Flutter-App)
 
 ---
