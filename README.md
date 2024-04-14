@@ -42,6 +42,10 @@ I'm Nolan and I'm a second-year Computing and Information Sciences BS student at
 
 - [Monroe Times - Basic Website](https://github.com/njw1389/Monroe-Times)
 
+- [Visit OC NJ - PHP Website](https://github.com/njw1389/Visit-OC-NJ)
+
+- [Unix Group Project - PHP Website](https://github.com/njw1389/Unix-Project)
+
 - [RIT Parking - Flutter App](https://github.com/njw1389/Flutter-App)
 
 ---
