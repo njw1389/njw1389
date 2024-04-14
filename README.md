@@ -46,13 +46,13 @@ I'm Nolan and I'm a second-year Computing and Information Sciences BS student at
 
 - [Unix Group Project - PHP Website](https://github.com/njw1389/Unix-Project)
 
-- [iHold - Design Class Group Website](https://github.com/njw1389/iHold)
+- [iHold - User Experience Class Group Website](https://github.com/njw1389/iHold)
 
 - [Find-A-Date - Dynamically Created Javascript Website](https://github.com/njw1389/Find-A-Date)
   
-- [Unix Group Project - PHP Website](https://github.com/njw1389/Unix-Project)
+- [Top 10 ROC - Mobile Design Class](https://github.com/njw1389/Top10ROC)
 
-- [Unix Group Project - PHP Website](https://github.com/njw1389/Unix-Project)
+- [iSchool - React Website](https://github.com/njw1389/iSchool-React)
 
 - [RIT Parking - Flutter App](https://github.com/njw1389/Flutter-App)
 
