@@ -8,7 +8,7 @@ I'm Nolan and I'm a third-year Web & Mobile Computing BS student at the Rocheste
 
 ---
 
-### 🛠 &nbsp;Languages and Software:
+### 🛠 &nbsp;Languages, Frameworks/Librarys & Software:
 
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
