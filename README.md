@@ -2,7 +2,7 @@
 
 ### :man_technologist: &nbsp;About Me:
 
-I'm Nolan and I'm a second-year Computing and Information Sciences BS student at the Rochester Institute of Technology.
+I'm Nolan and I'm a third-year Web & Mobile Computing BS student at the Rochester Institute of Technology.
 
 - 📒 Majoring in Web & Mobile Computing
 
