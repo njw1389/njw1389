@@ -2,28 +2,7 @@
 
 ### :man_technologist: &nbsp;About Me:
 
-I'm Nolan and I'm a <span id="studyYear">third</span>-year Web & Mobile Computing BS student at the Rochester Institute of Technology.
-
-<script>
-  // Function to calculate the study year
-  function updateStudyYear() {
-    const startYear = 2021; // The year you started as a third-year student
-    const currentYear = new Date().getFullYear();
-    const currentMonth = new Date().getMonth(); // 0-indexed, so January is 0
-    
-    // Assuming the academic year starts in September (month index 8)
-    const academicYear = currentMonth >= 8 ? currentYear : currentYear - 1;
-    
-    const yearDifference = academicYear - startYear;
-    const yearNames = ['third', 'fourth', 'fifth'];
-    const yearIndex = Math.min(yearDifference, yearNames.length - 1);
-    
-    document.getElementById('studyYear').textContent = yearNames[yearIndex];
-  }
-
-  // Run the function when the page loads
-  updateStudyYear();
-</script>
+I'm Nolan and I'm a third-year Web & Mobile Computing BS student at the Rochester Institute of Technology.
 
 - 📒 Majoring in Web & Mobile Computing
 
