@@ -70,6 +70,6 @@ I'm a third-year Web & Mobile Computing BS student at the Rochester Institute of
 
 - [iSchool - React Website](https://github.com/njw1389/iSchool-React)
 
-- [RIT Parking - Flutter App](https://github.com/njw1389/bug-tracker)
+- [Bug Identification & Tracking PHP Framework & Web App](https://github.com/njw1389/bug-tracker)
 
 ---
