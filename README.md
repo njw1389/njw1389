@@ -2,8 +2,7 @@
 
 ### :man_technologist: &nbsp;About Me:
 
-I'm a third-year Web & Mobile Computing BS student at the Rochester Institute of Technology.
-
+I'm a third-year Web & Mobile Computing student in the Golisano College of Computing and Information Sciences at Rochester Institute of Technology
 - 📒 Majoring in Web & Mobile Computing
 
 ---
@@ -55,14 +54,6 @@ I'm a third-year Web & Mobile Computing BS student at the Rochester Institute of
 ### 🐍 &nbsp;Most Used Languages:
 
 [![Nolan Wira's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=njw1389&hide=CMake&theme=vision-friendly-dark)](https://github.com/njw1389/)
-
-- [Monroe Times - Basic Website](https://github.com/njw1389/Monroe-Times)
-
-- [Visit OC NJ - PHP Website](https://github.com/njw1389/Visit-OC-NJ)
-
-- [Unix Group Project - PHP Website](https://github.com/njw1389/Unix-Project)
-
-- [iHold - User Experience Class Group Website](https://github.com/njw1389/iHold)
 
 - [Find-A-Date - Dynamically Created Javascript Website](https://github.com/njw1389/Find-A-Date)
   
