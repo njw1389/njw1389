@@ -48,8 +48,7 @@ I'm a third-year Web & Mobile Computing student in the Golisano College of Compu
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
 </p>
-
----
+<!--
 
 ### 🐍 &nbsp;Most Used Languages:
 
@@ -64,3 +63,4 @@ I'm a third-year Web & Mobile Computing student in the Golisano College of Compu
 - [Bug Identification & Tracking PHP Framework & Web App](https://github.com/njw1389/bug-tracker)
 
 ---
+-->
